@@ -1,7 +1,7 @@
 /* ------------- Typing ------*/
 
 let typed = new Typed(".typing", {
-    strings:["","Wed Developer","Web Designer", "Graphic Designer"],
+    strings:["","Chill Developer 🥳.","Chill Web Designer 😎", "Toan, enjoy my life 🥰"],
     typeSpeed: 100,
     BackSpeed: 60,
     loop: true
